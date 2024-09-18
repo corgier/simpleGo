@@ -1,1 +1,1 @@
-<<The Go Programming Language>> case
+The Go Programming Language case
